@@ -46,3 +46,15 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+h1{
+width: 3px;
+border: 3cap solid green;
+padding: 50px;
+margin: 20px;
+}
+
+p{width: 500px;
+  border: 0cap solid green;
+  padding: 50px;
+  margin: 20px;}
