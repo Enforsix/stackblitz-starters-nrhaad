@@ -5,8 +5,8 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: black;
-  background-color: white;
+  color: rgb(228, 211, 211);
+  background-color: rgb(33, 31, 31);
 }
 
 nav {
@@ -37,10 +37,12 @@ nav a[aria-current='page'] {
 }
 
 main {
+  color: #21FC0D;
   padding: 1rem;
 }
 
 h1 {
+  color: #21FC0D;
   font-weight: bold;
   font-size: 1.5rem;
 }
