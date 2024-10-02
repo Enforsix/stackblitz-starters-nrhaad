@@ -5,8 +5,8 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: black;
-  background-color: rgb(12, 12, 12);
+  color: rgb(228, 211, 211);
+  background-color: rgb(33, 31, 31);
 }
 
 nav {
@@ -37,26 +37,31 @@ nav a[aria-current='page'] {
 }
 
 main {
+  color: #21FC0D;
   padding: 1rem;
-
 }
 
 h1 {
-  color: #2aeb47;
-  text-align: center;
+  color: #21FC0D;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
+
+h1{
+width: 500px;
+border: 0cap solid green;
+padding: 10px;
+margin: 10px;
+}
+
+p{
+  width: 500px;
+  border: 01pxcap solid green;
+  padding: 10px;
+  margin: 10px;}
 
 h2 {
-  color: #2aeb47;
-  text-align: center;
-  font-weight: bold;
-  font-size: 2rem;
-}
-
-P {
-  color: #2aeb47;
-  text-align: left;
-  padding: 0.5rem;
-}
+  width: 500px;
+  border: 0cap solid green;
+  padding: 10px;
+  margin: 10px;}
